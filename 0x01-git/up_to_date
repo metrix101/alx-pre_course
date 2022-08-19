@@ -1,1 +1,1 @@
-echo up to date > cat
+git pull
